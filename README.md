@@ -22,3 +22,4 @@ Se forem trabalhar no https://stackblitz.com/ excluir a dependencia @angular/com
 
 Qualquer dúvida:
 IG: https://www.instagram.com/luiz.alexandre013/
+Facebook: https://www.facebook.com/profluizalexandre/
