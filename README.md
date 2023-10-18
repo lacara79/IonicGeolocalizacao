@@ -26,5 +26,5 @@ https://www.mapbox.com/
 
 # Minhas Redes
 Qualquer dúvida:
-IG: https://www.instagram.com/luiz.alexandre013/
+IG: https://www.instagram.com/prof.alexandre.013/
 Facebook: https://www.facebook.com/profluizalexandre/
